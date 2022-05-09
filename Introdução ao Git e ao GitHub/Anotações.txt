@@ -1,3 +1,18 @@
 Link para download do Git: https://git-scm.com/downloads
 
-O Git Bash é um terminal extendido para otimizar o uso do Git. 
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Primeiros comandos Git/GitHub: 
+	Git unit: iniciar o repositório Git
+	Git add. : adicionar arquivo
+	Git status: status do arquivo
+	Git commit -m: comitar
+	Git push origin main: mandar para nuvem
+	Git push: empurra para o repositório
+	Git pull: puxar para o repositório
+
+
+Ciclo de Vida dos arquivos Git
+Tracked: Unmodified - arquivo que ainda não foi modificado.
+	Modified - sofreu modificação.
+	Staged: onde os arquivos estão se preparando para fazer parte de outro tipo de agrupamento. (Unmodified para Modified). 
